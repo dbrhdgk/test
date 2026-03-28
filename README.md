@@ -1,2 +1,2 @@
 README
-test 저장
+test 저장소
